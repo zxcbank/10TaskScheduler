@@ -47,6 +47,4 @@ class Object {
         bool isReady = false;
     private:
         std::unique_ptr<Base> pb;
-        
-        
 };
